@@ -40,7 +40,7 @@
         </li>
     </ul>
     <div class="col-md-12"  style="background: #8B9FAF">
-        <h1><strong> Segundo caso </strong></h1>
+        <h1><strong> Cuarto caso </strong></h1>
         <p style="font-size: 20px; color: #000;">Elementos pertenecientes a la instancia Vue, editados por elementos de componente B</p>
     </div>
 

@@ -40,7 +40,7 @@
         </li>
     </ul>
     <div class="col-md-12"  style="background: #8B9FAF">
-        <h1><strong> Segundo caso </strong></h1>
+        <h1><strong> Tercer Caso </strong></h1>
         <p style="font-size: 20px; color: #000;">Elementos de Componente A, editados desde elementos De otro componente B</p>
     </div>
 
